@@ -3,7 +3,7 @@ import MovieCard from "components/MovieCard";
 function Listing(){
 
     return (
-        <>
+        <> 
 
         <Pagination />
 
